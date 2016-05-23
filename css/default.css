@@ -53,7 +53,7 @@ width:240px;
 height:80px;
 margin:5px;
 float:left;
-overflow:hidden;
+overflow:scroll;
 }
 #good_picture{
   width:24px;
